@@ -1,4 +1,5 @@
 # A little bit of math
+
 myBill = float(input("What was the bill?: "))
 tip = int(input("What % of tip from the bill you want to give?"))
 numberOfPeople = int(input("How many people?: "))
